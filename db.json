@@ -1,0 +1,127 @@
+
+      {
+        "maths-sp-12":[
+            {
+            "id":1,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Model Paper 2023 With Marking Scheme",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Model.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Model.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":2,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-1",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set1.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":3,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-2",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set2.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":4,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-3",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set3.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":5,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-4",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set4.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set4.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":6,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-5",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set5.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set5.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+
+          {
+            "id":7,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-6",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set6.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set6.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":8,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-7",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set7.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set7.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":9,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-8",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set8.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set8.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":10,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-9",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set9.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set9.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          } ,
+                   {
+            "id":11,
+            "subject":"maths",
+            "image":"maths",
+            "description":"Maths class 12th - Sample Paper 2023 set-10",
+            "download":"assets/images/sample-12/maths/Maths-12-2023-Set10.pdf",
+            "view":"assets/images/sample-12/maths/Maths-12-2023-Set10.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          }
+        ]
+      }
